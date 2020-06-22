@@ -9,7 +9,7 @@ The GUI program contains setBound which is used to describe the location at whic
 It has four field x, y , width and heigth.
 You need to have a basic understanding and knowledge of coordinates in frame to understand how the different component are placed in a 
 frame using the integer values of x,y,width,height.
-If you want to know more about awt, setBounds that go through this link https://docs.oracle.com/javase/7/docs/api/java/awt/package-summary.html or watch some basic videos on youtube about awt, setbound.
+If you want to know more about awt, setBounds then go through this link https://docs.oracle.com/javase/7/docs/api/java/awt/package-summary.html or watch some basic videos on youtube about awt, setbound.
 I have not included EventHandler which is EventAction and EventListening which is action that will be performed when you enter a Submit button. 
 That can be done using ActionEvent and ActionListener.
 There are some disadvantages in awt like it does not contain Password field, No frame exit open is there.
