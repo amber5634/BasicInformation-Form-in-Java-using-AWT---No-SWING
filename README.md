@@ -27,7 +27,7 @@ If you want to know more about awt, setBounds then go through this link https://
 ```
 In order to destroy the frame one has to manually enter the command ctr+ c on their terminal.
 ```
-#### This program will help to understand the beauty of awt and later to appreciate Swing framework. Then with the help of Swing framework one can play more with GUI and could overcome the disadvantages that AWT possess.
+#### This program will help to understand the beauty of AWT and later to appreciate Swing framework. Then with the help of Swing framework one can play more with GUI and could overcome the disadvantages that AWT possess.
 
 I have added the hexadecimal color to make GUI more beautiful.
 
