@@ -14,8 +14,16 @@ If you want to know more about awt, setBounds then go through this link https://
 
 > I have not included EventHandler which is EventAction and EventListening which is action that will be performed when you enter a Submit button. 
 > That can be done using ActionEvent and ActionListener.
+
+> This is a Simple GUI in AWT
+
+> To include Event Handling there is already a concept of Swing.
+
+> For that ones needs to put a step ahead but it is important to know  the fundamentals of awt. As AWT was introduced before and then Swing came with additional features.
+
  * There are some disadvantages in awt like it does not contain Password field, No frame exit open is there.
- *You can minimise or maximise the frame but frameonexit command is not there.
+ 
+ * You can minimise or maximise the frame but frameonexit command is not there.
 ```
 In order to destroy the frame one has to manually enter the command ctr+ c on their terminal.
 ```
