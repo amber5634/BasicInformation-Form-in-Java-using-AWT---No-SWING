@@ -32,6 +32,12 @@ In order to destroy the frame one has to manually enter the command ctr+ c on th
 I have added the hexadecimal color to make GUI more beautiful.
 
 
+> Screenshot of the Form
+
+![GUI_FORM](https://user-images.githubusercontent.com/30586187/86527567-bef44f80-bebd-11ea-90cd-9202e929a884.PNG)
+
+> Hexadecimal Template Page
+
 [Click me for hexadecimal page](https://www.color-hex.com/)
 
 ## I hope you will like it.
